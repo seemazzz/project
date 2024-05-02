@@ -33,8 +33,14 @@ To download and save the public-use LMFs to your hard drive, follow these steps:
 		 and the data file is saved as "<SURVEY>_MORT_2019_PUBLIC.DAT". 
 */
 
-cd "C:\PUBLIC USE DATA"    // SET DIRECTORY WHERE DATA ARE LOCATED, E.G. "C:\PUBLIC USE DATA"
-global SURVEY <SURVEY>     // REPLACE <SURVEY> WITH RELEVANT SURVEY NAME (IN ALL CAPS)
+** Get the appropriate working directory (Modified here)
+di "What is your working directory?" _request(workdir)
+cd "$workdir"
+//cd "C:\PUBLIC USE DATA"    // SET DIRECTORY WHERE DATA ARE LOCATED, E.G. "C:\PUBLIC USE DATA"
+
+** use global macro to indicate the survey
+global SURVEY SURVEY NHANES_1999_2000     // REPLACE <SURVEY> WITH RELEVANT SURVEY NAME (IN ALL CAPS)
+
 * example syntax: 
 * global SURVEY NHIS_2018
 * or
