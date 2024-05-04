@@ -1,5 +1,5 @@
 
-  <img src="https://github.com/seemazzz/project/blob/main/letsdoaproject.png" width="400"/>
+  <img src="https://github.com/seemazzz/project/blob/main/letsdoaproject.png">
 
 
 
