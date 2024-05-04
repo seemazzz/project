@@ -1,5 +1,6 @@
 
-  <img src="https://github.com/seemazzz/project/blob/main/letsdoaproject.png">
+
+![Image Alt Text](letsdoaproject.png)
 
 
 
