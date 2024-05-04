@@ -4,6 +4,17 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
 #  Project for Stata II (Intermediate)
 
 ## SURVIVAL ANALYSIS: (Does self-reported health status predict mortality? )
