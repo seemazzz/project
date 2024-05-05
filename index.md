@@ -25,7 +25,8 @@
 ### 1. Purpose of the Project:
   We are creating this project so that we can keep working for the next 3 weeks on survival analysis to assess if the self-reported health status
   can predict mortality.
- Other collaborators are welcome to contribute by adding their inputs to `read.me` file in [my PROJECT repository(https://github.com/seemazzz/project.git)
+ Other collaborators are welcome to contribute by adding their inputs to `read.me` file in 
+ [my PROJECT repository(https://github.com/seemazzz/project.git)
   and putting a comment while committing changes. 
   
 ### 2. Description of Data Source:
