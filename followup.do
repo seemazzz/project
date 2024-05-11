@@ -40,6 +40,9 @@ To download and save the public-use LMFs to your hard drive, follow these steps:
 
 ** use global macro to indicate the survey
 global SURVEY NHANES_1999_2000     // REPLACE <SURVEY> WITH RELEVANT SURVEY NAME (IN ALL CAPS)
+global mort "https://ftp.cdc.gov/pub/HEALTH_STATISTICS/NCHS/datalinkage/linked_mortality/"
+global repo "https://raw.githubusercontent.com/seemazzz/project/main/"
+
 
 * example syntax: 
 * global SURVEY NHIS_2018
