@@ -85,6 +85,21 @@ Quick look on what the followup.do file executed:
         - Do both unadjusted and adjusted cox regressions 
    - We will include results and graphs from the analysis here
     
+### 5. Week 7 (Updated on Satuday May 12, 2024): Lets do some analysis
+   - We will do non-parametric (Kaplan Meier) and  semi-parametric (Cox Regression) analysis to get the effect estimates
+   - We will also look at the mortality risk for specific scenario (a 40 year old man who self-reported good health)
+   - You can see the [Detailed Stata codes and analysis directly from Stata](dyndoc.html)
+
+
+   
+### 6. Conclusion (stated in the Stata syntax and analysis page as well)
+  - Self-reported health has significant association with mortality. 
+  - Lower the self-reported health status, higher the risk of mortality. 
+  - In the unadjusted model, the effects size(HR) were higher, but, after adjusting for the confounders, the effect size decreased.
+  - Example: In the unadjusted model, those who self-reported poor health had 7.5 times higher risk of mortality
+  as compared to those who self-reported excellent health , 
+  but the effect size decreased to 3.6 (HR=3.6) in the adjusted model. 
+  - So, it is important to adjust for the relevant counfounders in such analysis.
    
         
         
