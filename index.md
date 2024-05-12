@@ -88,7 +88,7 @@ Quick look on what the followup.do file executed:
 ### 5. Week 7 (Updated on Saturday May 12, 2024): Lets do some analysis
    - We will do non-parametric (Kaplan Meier) and  semi-parametric (Cox Regression) analysis to get the effect estimates
    - We will also look at the mortality risk for specific scenario (a 40 year old man who self-reported good health)
-   - You can see the [Detailed Stata codes and analysis directly from Stata](dyndoc.html)
+   - You can see the [Detailed Stata codes and Analysis directly from Stata](dyndoc.html)
 
 
    
