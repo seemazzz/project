@@ -1,7 +1,7 @@
 <<dd_version: 2>>     
 <<dd_include: header.txt>>
 
-# Stata Sytax and Analysis for My Project 
+# Stata Syntax and Analysis for My Project 
 
 ## Survival Analysis: Non-Parametric and Semi-Parametric Analysis
 
